@@ -1,6 +1,6 @@
 # Hi there, I'm Moon 👋
 
-aim high, build higher.
+
 
 # Knowledge
 - 3 Years of Development Experience
